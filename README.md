@@ -61,7 +61,7 @@ The interactive Power BI dashboard summarizes sales performance, warranty analys
 
 **Dashboard Screenshot**
 
-![Dashboard](Images/Dashboard%20Screenshot.png)
+![Dashboard](Images/Dashboard%20screenshot.png)
 
 ---
 
